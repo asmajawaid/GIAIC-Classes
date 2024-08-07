@@ -1,0 +1,12 @@
+{
+  "name": "class_13",
+  "version": "1.0.0",
+  "description": "Alright, imagine you have a big box of Lego bricks. Each brick is like a different part of your program, and you can build cool things by putting these bricks together in different ways.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
